@@ -1,0 +1,4 @@
+out/
+data/*.dat
+.idea/
+*.class
