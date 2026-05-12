@@ -42,4 +42,4 @@ A modern, attractive Railway Reservation System built using Java Swing and Core 
 *(UI features a dark mode theme with accent blue buttons and responsive tables)*
 
 ---
-Developed as a B.Tech OOPS through Java lab project.
+Developed by rohith
